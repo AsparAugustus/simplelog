@@ -1,0 +1,17 @@
+{
+  "name": "simplelog",
+  "version": "1.0.0",
+  "description": "Tired of naming your variables when you're debugging? This is a simple console.log that outputs the name of variable and the value in a JSON format to the console. Saves you from ever having to type out lines of code like this: console.log(\"variable\", variable) ever again.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "debug",
+    "debugging"
+  ],
+  "author": "Calvin Chan",
+  "license": "ISC"
+}
